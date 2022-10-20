@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=karula-ke&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=karula-k&style=flat-square&color=blue" alt=""/>
 <h1> skilss</>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
