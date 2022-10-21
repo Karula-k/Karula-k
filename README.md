@@ -29,8 +29,9 @@ My repo related to kotlin <a href="https://kotlinlang.org" target="_blank" rel="
 <details>
 <summary>My repo related to game development from unity and c++ <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a> </summary>
 -<a href="https://github.com/Karula-k/AR-Map">AR Unej Map</a> low poly ar map at my university <br>
--<a href="https://github.com/Karula-k/Petualangan-Asep">Petualangan Asep</a> game that made using unity with team im the one handle the code <br>
+-<a href="https://github.com/Karula-k/Petualangan-Asep">Petualangan Asep</a> game that made using unity with team im the one handle the code,talks about asep who lost in mountain and facing karma <br>
 -<a href="https://github.com/Karula-k/project-grafkom">Evade</a> game that using glut 3d library in c++ <br>
+-<a href="https://github.com/Karula-k/Blue-hood">Blue hood</a> game that using unity player need to evade red and keep going the level
 </details>
 <h1>Skills</h1>
 
