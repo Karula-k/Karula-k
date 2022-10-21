@@ -1,8 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karula-k&label=Profile%20views&color=0e75b6&style=flat" alt="karula-k" /> </p>
-<h1>About Me</>
+<h1>About Me</h1>
 <hr>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=karula-k&show_icons=true&locale=en" alt="karula-k" />
-<h5>Hello my name is Dzul Fikri irsyad, im very passionate to learn about mobile development or game development my </h5>
+<h5>Hello my name is Dzul Fikri irsyad, im very passionate to learn about mobile development or game development</h5>
+<h5>Im re learning kotlin and functional programing for now</>
+<h1>Repositories</h1>
 <h5>My Repositories so far: </h5>
 <details>
 <summary>My repo related to Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a></summary>
@@ -25,12 +27,12 @@ My repo related to kotlin <a href="https://kotlinlang.org" target="_blank" rel="
 -<a href="https://github.com/Karula-k/Githubapp">Gitub app</a>same as flutter using github api <br>
 </details>
 <details>
-<summary>My repo related to game development from unity and c++ <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </summary>
+<summary>My repo related to game development from unity and c++ <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="20" height="20"/> </a> </summary>
 -<a href="https://github.com/Karula-k/AR-Map">AR Unej Map</a> low poly ar map at my university <br>
 -<a href="https://github.com/Karula-k/Petualangan-Asep">Petualangan Asep</a> game that made using unity with team im the one handle the code <br>
 -<a href="https://github.com/Karula-k/project-grafkom">Evade</a> game that using glut 3d library in c++ <br>
 </details>
-<h3 align="left">Skills:</h3>
+<h1>Skills</h1>
 
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
