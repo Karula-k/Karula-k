@@ -16,7 +16,7 @@
 -<a href ="https://github.com/Karula-k/RestaurantApp">Restaurant app</a> Submisiion for dicoding academy, its using dummy api for making restaurant app <br>
 -<a href="https://github.com/Karula-k/githubapiTesting">Github</a> apps that using github api <br>
 -<a href="https://github.com/Karula-k/food_cafe">Food & cafe</a> uncomplete apps <br>
--<a href="https://github.com/Juanneilp/match_mates">Match Mates</a> apps for capstone project in dicoding academy using firebase ass back end but currently inactive <br>
+-<a href="https://github.com/Juanneilp/match_mates">Match Mates</a> apps for capstone project in dicoding academy using firebase ass back end but currently inactive 
 </details>
 <details>
 <summary>
