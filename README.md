@@ -7,7 +7,7 @@
 
 # Portofolio
 [Portofolio](https://karula-k.github.io)
-
+[Leet code](https://leetcode.com/u/karula-k)
 # Repositories
 
 ## Flutter
@@ -19,14 +19,14 @@
 - [Solusi Tukang Mitra](https://play.google.com/store/apps/details?id=com.solusiciptamedia.mitrasolusitukang): Partners app for solusi tukang.
 - Intima : NDA project
 - EMS : NDA project
-- NurseApp : NDA project
 </details>
 
 ## FrontEnd
 
 <details>
   <summary>The Projects</summary>
-  - Still Learning
+  - HRIS (NDA company)
+  - KPI (NDA company)
 </details>
 
 # Skills
